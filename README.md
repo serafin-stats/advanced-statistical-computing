@@ -136,20 +136,8 @@ trial stop/continue rule.
 ```
 .
 ├── README.md
-├── Lab_0_NumericsCheatSheet.ipynb
-├── Lab_1_Introduction.ipynb
-├── Lab_2_LinearSolve.ipynb
-├── Lab_3_Optimization_PtI.ipynb
-├── Lab_4_Optimization_PtII.ipynb
-├── Lab_5_ExpFam_Divergences.ipynb
-├── Lab_6_Divergences.ipynb
-├── Lab_7_Intro_Bayesian_Inference.ipynb
-├── Lab_8_Variational_Inference_PtI.ipynb
-├── Lab_9_Variational_Inference_PtII.ipynb
-├── Lab_10_Variational_Inference_PtIII.ipynb
-├── Lab_11_MCMC_BlackJAX.ipynb
-├── Lab_12_Gibbs_Sampling.ipynb
-└── Lab_13_HMC.ipynb
+> Lab notebooks are being cleaned up and added progressively.
+> Check back for updates.
 ```
 
 ---
